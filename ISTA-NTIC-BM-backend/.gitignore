@@ -7,7 +7,6 @@
 /.phpunit.result.cache
 /.phpunit.cache
 .env
-.env.*
 .phpactor.json
 .phpunit.result.cache
 

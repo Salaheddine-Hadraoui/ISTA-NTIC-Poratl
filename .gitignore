@@ -1,0 +1,3 @@
+# Ignore backend and frontend environment files
+ISTA-NTIC-BM-backend/.env
+ISTA-NTIC-BM-frontend/.env
