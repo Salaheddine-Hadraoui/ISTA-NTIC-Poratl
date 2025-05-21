@@ -38,7 +38,7 @@ PHP >= 8.3
 
 Composer
 
-Node.js & npm
+Node.js & npm 
 
 MySQL
 
